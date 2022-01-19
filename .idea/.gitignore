@@ -1,6 +1,7 @@
 # Default ignored files
 /.idea
 /.Documents
+/.DS_Store
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
